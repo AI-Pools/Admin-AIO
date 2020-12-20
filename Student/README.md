@@ -32,7 +32,7 @@ Quelles sont donc les étapes à suivre ?
 - On calcule notre target Q-value en uttilisant l'equation de Bellman
 - On calcule la loss en comparant l'output de $f$ avec notre Target Q-value en calculant la MSE.
 
-<img src="./.img/Deep_Q-Network_raining.png"/>
+<img src="./.img/Deep_Q-Network_raining.png" width=600px />
 
 On entrainera alors notre model à minimiser cette loss comme pour n'importe quel autre modele de deep learning.
 
