@@ -1,4 +1,4 @@
-# AI Pool 2021 - Reinforcement Learning - MOON
+# AI Pool 2021 - Reinforcement Learning - AIO
 
 Inenieur, nous devons reflechir à un plan B si nous ne réussissons pas à sauver la Terre.
 
