@@ -50,6 +50,7 @@ On repetera ces étapes sur chacun des états rencontrés dans l'environement ju
 - On ne souhaite pas avoir de fonction d'activation pour le dernier layer puisque que l'on souhaite avoir l'estimation brut de l'esperance.
 - On peut souhaiter de faire du preprocessing sur notre state si necessaire.
 - On souhaite mélanger notre memory regulierement pour eviter toutes corélations entre les données.
+- Pensez à l'integration GPU pour l'entrainement de votre modele
 
 
 **Useful links:**
